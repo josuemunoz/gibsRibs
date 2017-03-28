@@ -84,10 +84,7 @@
     </platform>
 	
 	
-	<platform name="ios">
-		<config-file platform="ios" target="*-Info.plist">
-		
-		<dict>
+	
 	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
 	<string>ca-app-pub-3940256099942544/2934735716</string>
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
@@ -122,10 +119,7 @@
 	<string>1:291568499285:ios:aaa41f3b1ec126b8</string>
 	<key>DATABASE_URL</key>
 	<string>https://dlogodesign-be52f.firebaseio.com</string>
-</dict>
-		
-		</config-file>
-	</platform>
+
 	
 	
 	<platform name="ios">
